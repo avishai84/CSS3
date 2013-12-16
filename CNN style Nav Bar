@@ -149,3 +149,64 @@ background: linear-gradient(top,  rgba(226,226,226,1) 0%,rgba(209,209,209,1) 26%
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-8 */
 	
 }
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Red Navagation Bar</title>
+<link href="redNavbar.css" rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Vibur' rel='stylesheet' type='text/css'>
+
+
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+
+</head>
+
+<body id="homePage">
+
+<header>  
+
+    <nav>
+   
+      <ul>
+        <li id="homeMenu"><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Website</a></li>
+        <li><a href="#">Tech</a></li>
+        <li><a href="#">Radio Channel</a></li>
+        <li><a href="#">Industry</a></li>
+        <li><a href="#">Market Place</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Your World</a></li>
+        <li><a href="#">Places</a></li>
+      </ul> <div id="Logo"></div>
+      <div id="LogoText">Hawaii Papaya</div>
+    </nav>
+
+</header>
+
+<div id="bottomHeader">
+
+<!--White line under nav-->
+</div>
+
+<div class="container">
+<aside>
+<div id="contentText"><p>Aside, some text goes in here...</p>
+<p>Lorem ipsum dolor sit amet, consectetuer , aucto purus. Aenean viverra malesuada libero. </div>
+</aside>
+
+  <!-- end .container --></div>
+
+<footer>Footer 2012 Designed by Avishai™</footer> 
+</body>
+</html>
+
+
