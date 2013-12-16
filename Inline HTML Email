@@ -1,0 +1,448 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="viewport" content="width=device-width; initial-scale=1">
+<title>Hello from Avishai</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
+<style type="text/css">
+table {
+	margin: 0px auto;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 20px;
+	font-size: inherit;
+	color: #FFFFFF;
+}
+
+h1 {
+	-webkit-margin-before: 0px !important;
+	-webkit-margin-after: 0px !important;
+	-webkit-margin-start: 0px !important;
+	-webkit-margin-end: 0px !important;
+}
+a:-webkit-any-link {
+ color: #FFFFFF !important;
+ text-decoration:none !important;
+ cursor: auto;
+}
+
+.ii a[href] {
+	color: #FFFFFF !important;
+}
+
+.gt a {
+	color: #FFFFFF !important;
+}
+
+a {
+	color: rgb(255, 255, 255) !important;
+	text-decoration: none !important;
+}
+
+tr td.top {
+	padding-top: 1px !important;
+}
+
+td h1.logo,
+.logo {
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: 800 !important;
+	text-transform: uppercase !important;
+	color: #FFFFFF !important;
+	padding: 3px 8px 3px 10px;
+	text-align: left;
+	font-size: 15px !important;
+	-webkit-text-shadow: 2px 2px 4px #000000;
+	text-shadow: 2px 2px 4px #000000;
+	-webkit-margin-before: 0px !important;
+	-webkit-margin-after: 0px !important;
+	-webkit-margin-start: 0px !important;
+	-webkit-margin-end: 0px !important;
+	width: auto !important;
+}
+
+tr.nav {
+	height: 60px !important;
+	padding-top: 26px !important;
+	padding-bottom: 26px !important;
+}
+
+tr.nav td.menu-links {
+	padding-right: 10px;
+	color: #FFFFFF !important;
+}
+
+tr.nav td.menu-links,
+tr.nav td.menu-links a {
+	text-decoration: none !important;
+	color: #FFFFFF !important;
+	padding: 2px 6px 2px 2px;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	-webkit-text-shadow: 2px 2px 2px #000000;
+	text-shadow: 2px 2px 2px #000000;
+}
+
+h2,
+td h2.title {
+	color: #C6511C;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px !important;
+	font-weight: 800 !important;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 0px;
+	text-align: center;
+	margin: 0;
+	-webkit-margin-before: 0px !important;
+	-webkit-margin-after: 0px !important;
+	-webkit-margin-start: 0px !important;
+	-webkit-margin-end: 0px !important;
+	/*-webkit-text-shadow: 2px 2px 4px #000000;
+	text-shadow: 2px 2px 4px #000000;*/
+	vertical-align: top;
+	display: inline-block;
+}
+
+h3,
+h3.title2 {
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding-top: 0px !important;
+	padding-bottom: 6px !important;
+	padding-left: 6px !important;
+	padding-right: 0px !important;
+	text-align: left;
+	-webkit-margin-before: 0px;
+	-webkit-margin-after: 0px;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	/*-webkit-text-shadow: 2px 2px 4px #000000;
+	text-shadow: 2px 2px 4px #000000;*/
+	margin: 0px !important;
+}
+
+tr.about td p.example {
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	font-stretch: wider;
+	color: #FFFFFF;
+	text-align: left !important;
+	-webkit-margin-before: 0px;
+	-webkit-margin-after: 0px;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	padding-right: 14px !important;
+	padding-bottom: 10px !important;
+	/*-webkit-text-shadow: 2px 2px 2px #000000;
+	text-shadow: 2px 2px 2px #000000;*/
+	font-style: normal;
+	vertical-align: top;
+	display: inline-block !important;
+	padding-left: 1px !important;
+}
+
+tr.about td p.example:last-child {
+	padding-bottom: 30px !important;
+}
+
+tr.about td.about-img {
+	padding: 10px 8px 0px 6px;
+	vertical-align: top;
+}
+
+tr.about td.about-img img,
+tr.about td.about-img > img {
+	padding: 0 !important;
+	border: 2px solid black !important;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+table.work-space {
+	padding-top: 1px;
+	border-top: 2px solid #BB3C1F;
+}
+
+tr.gallery td a {
+	padding: 0px !important;
+	margin: 0px !important;
+ text-align:right: !important;
+	-webkit-border-horizontal-spacing: 0px !important;
+	-webkit-border-vertical-spacing: 0px !important;
+}
+
+tr.gallery td a img {
+	width: auto;
+	padding: 0px !important;
+	border: 4px solid #FFFFFF !important;
+	margin-bottom: 20px !important;
+	margin-top: 4px !important;
+	margin-right: 0px !important;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	text-align: right;
+}
+
+tr.footer {
+	margin: 0;
+}
+
+tr.footer td a {
+	text-decoration: none !important;
+	color: #FFFFFF !important;
+	font-size: 10px !important;
+	text-decoration: none !important;
+}
+
+tr.footer td p {
+	font-size: 10px;
+	padding: 8px 0 0 0;
+	margin: 0;
+	color: #FFFFFF;
+	-webkit-text-shadow: 2px 2px 2px #000000;
+	text-shadow: 2px 2px 2px #000000;
+}
+
+tr.footer-bottom-dashed td {
+	padding-top: 2px;
+}
+ @media (max-width: 320px) {
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: 'Open Sans';
+	vertical-align: baseline;
+	text-decoration: none;
+}
+
+body {
+	width: 100% !important;
+}
+
+table.main-space {
+	width: 100% !important;
+}
+
+table {
+	width:320px !important;
+	border-collapse: separate;
+	-webkit-border-horizontal-spacing: 0px !important;
+	-webkit-border-vertical-spacing: 0px !important;
+}
+
+h1,
+td h1.logo {
+	padding: 3px 4px 3px 8px !important;
+	font-size: 15px !important;
+}
+
+h2,
+td h2.title {
+	color: #C6511C !important;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800 !important;
+	/*-webkit-text-shadow: 2px 2px 4px #000000;
+	text-shadow: 2px 2px 4px #000000;*/
+	font-size: 35px !important;
+}
+
+tr.nav td.menu-links {
+	width: 100%;
+	padding: 0px !important;
+	margin: 0px !important;
+	color: #FFFFFF !important;
+}
+
+tr.gallery td img,
+.gallery img {
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	border: 1px solid #FFFFFF !important;
+	max-width: 80% !important;
+}
+
+tr.footer td p.example:last-child {
+	padding-bottom: 30px !important;
+}
+
+.ii a[href] {
+	color: #FFFFFF !important;
+}
+
+.gt a {
+	color: #FFFFFF !important;
+}
+ a:-webkit-any-link {
+ color: #FFFFFF !important;
+ text-decoration: none !important;
+ cursor: auto;
+}
+
+h1 {
+	-webkit-margin-before: 0px !important;
+	-webkit-margin-after: 0px !important;
+	-webkit-margin-start: 0px !important;
+	-webkit-margin-end: 0px !important;
+	font-size: 15px !important;
+}
+}
+</style>
+</head>
+
+<body bgcolor="#C3C2C3">
+<table class="main-space" width="490" bgcolor="#8FB2CC" align="center">
+  <tr>
+    <td class="top"></td>
+  </tr>
+</table>
+
+<!--Logo Nav-->
+<table class="main-space" align="center" bgcolor="#215A83" cellpadding="0" cellspacing="0" width="490" border="0" >
+  <tr class="nav">
+    <td bgcolor="#215A83"><h1 class="logo" style="color:#FFFFFF; font-size:15px;padding-left:6px;">A WEB DEVELOPER</h1></td>
+    <td class="menu-links" align="right" style="color:#FFFFFF; text-decoration:none !important;"><a href="http://www.koolika.com" style="text-decoration:none;color:#FFFFFF;padding: 2px 6px 2px 2px;font-size:13px;font-weight: normal;font-family: 'Open Sans', sans-serif;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;">Home</a> <a href="http://www.koolika.com/portfolio.html" style="text-decoration:none;color:#FFFFFF;padding: 2px 6px 2px 2px;font-size:13px;font-weight: normal;font-family: 'Open Sans', sans-serif;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;">Portfolio</a> <a href="http://www.koolika.com/contact.php" style="text-decoration:none;color:#FFFFFF;padding: 2px 6px 2px 2px;font-size:13px;font-weight: normal;font-family: 'Open Sans', sans-serif;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;">Contact</a></td>
+  </tr>
+</table>
+
+<!--About me-->
+<table class="main-space" align="center" bgcolor="#E4E4E4" cellpadding="0" cellspacing="0" width="490">
+  <tr class="about" valign="top">
+    <td class="about-img" align="left" style="padding-left:8px;padding-top:10px;"><img src="http://www.koolika.com/images/headShot.png" alt="Avishai's head-shot" >
+      <h2 class="title" style="font-size:50px;padding:0px;margin:0px;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;display:inline-block;color:rgba(0,0,0,0.4);">Koolika.com</h2>
+      <br>
+      <h3 class="title2" style="color:#2A3FAA;">Hello,</h3>
+      
+      <!--Text area-->
+      
+      <p class="example" style="color:#2A3FAA;padding-right:14px;">It is with great interest that I am forwarding my resume for consideration for the intern front end developer position. Given my background in web design, communication, and programming, I feel I would be an excellent fit for the role. </p>
+      <p class="example" style="color:#2A3FAA;padding-right:14px;">I am actively developing websites both for mobile devices and desktops. I’m well-versed in CMS,, HTML, CSS, JQuery, Adobe CS suite and other web technologies. I follow w3c standards techniques and know 508 section guidelines </p>
+      <p class="example" style="color:#2A3FAA;padding-right:14px;">Sincerely,<br>
+        Avishai Taashur </p></td>
+  </tr>
+</table>
+
+<!--work example-->
+
+<table class="main-space" align="center" bgcolor="#D04E31" cellpadding="0" cellspacing="0" width="490">
+  <tr class="gallery">
+    <td align="left" valign="top"><h3 class="title2" style="color:#FFFFFF;padding-left:6px;padding-bottom:6px;">Work example;</h3></td>
+  </tr>
+  <tr class="gallery">
+    <td align="center" valign="bottom"><a href="http://www.koolika.com/images/webShot/taxWebShot.png" target="_blank"> <img src="http://www.koolika.com/images/webShot/taxWebShotT.png" alt="image gallery photo" > </a></td>
+    <td align="center" valign="bottom"><a href="http://www.koolika.com/images/webShot/celticWebShot.png" target="_blank"> <img src="http://www.koolika.com/images/webShot/celticWebShotT.png" alt="image gallery photo" style=""> </a></td>
+    <td align="center" valign="bottom"><a href="http://www.koolika.com/images/webShot/rodasWebShot.png" target="_blank"> <img src="http://www.koolika.com/images/webShot/rodasWebShotT.png" alt="image gallery photo"> </a></td>
+    <td align="center" valign="bottom"><a href="http://www.koolika.com/images/webShot/fifthCylinderWebShot.png" target="_blank"> <img src="http://www.koolika.com/images/webShot/fifthCylinderWebShotT.png" alt="image gallery photo"> </a></td>
+  </tr>
+</table>
+<!--footer-->
+<table class="main-space" align="center" bgcolor="#215A83" cellpadding="0" cellspacing="0" width="490" >
+  <tr class="footer">
+    <td align="center" bgcolor="#215A83"><a href="http://www.koolika.com" style="text-decoration:none;color:#FFFFFF;font-size:10px;font-size:10px;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow:2px 2px 2px #000000;">Koolika.com</a>
+      <p style="font-size:10px;padding: 8px 0 0 0;margin:0;color:#FFFFFF;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;" class="example"> is created by Avishai, a front end developer.</p>
+      <p style="font-size:10px;padding: 8px 0 0 0;margin:0;color:#FFFFFF;-webkit-text-shadow: 2px 2px 2px #000000;text-shadow: 2px 2px 2px #000000;padding-bottom:10px;" class="example">All rights reserved 1999-2013 © koolika.com</p>
+  </tr>
+</table>
+<table class="main-space" align="center" bgcolor="#8FB2CC" cellpadding="0" cellspacing="0" width="490" >
+  <tr class="footer-bottom-dashed">
+    <td width="413" height="4" align="center" valign="bottom"></td>
+  </tr>
+</table>
+</body>
+</html>
